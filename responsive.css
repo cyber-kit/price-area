@@ -1,0 +1,83 @@
+@media screen and (max-width: 480px) {
+    /* start of phone styles */
+    * {}
+    body {}
+    section {}
+    .container {
+        width: 98%;
+        margin: 0 auto;
+        overflow: hidden;}
+    .packege-section {}
+    .packege-area {
+        width: 30%;
+        border: 0.4px solid #DBD2D2;
+    }
+    .packege-area:last-child {}
+    .first-packege {}
+    .packege-header {
+        margin: 5px;
+    }
+    .packege-name {}
+    .name {
+        margin-bottom: 0px;
+        font-size: 16px;
+    }
+    .pkg-rate {}
+    sup {
+        font-size: 13px;
+    }
+    .big-text {
+        font-size: 32px;
+    }
+    sub {
+        font-size: 13px;
+        display: block;
+        margin-bottom: -10px;
+    }
+    ul {}
+    .packege-section ul li {
+        margin: 10px 0px;
+        padding: 12px 0px;
+        font-size: 10px;
+    }
+    .get-started-btn {}
+    .get-started-btn a {
+        font-size: 11px;
+    }
+    .second-packege {}
+    .second-packege .packege-header {
+        margin: 5px;
+        height: auto;
+    }
+    .packege-name {}
+    .packege-name p {}
+    .pkg-rate {}
+    .plain-rate {
+        font-size: 18px;
+        margin-bottom: 6px;
+    }
+    ul li {}
+    .second-packege .get-started-btn {}
+    .get-started-btn a {}
+    .third-packege {}
+    ul > br {}
+    .blank {}
+    .packege-header {}
+    .packege-name {}
+    .packege-name p {}
+    .pkg-rate, .plain-rate {}
+    ul {}
+    ul li {}
+    .get-started-btn {}
+    .get-started-btn a {}
+    footer {}
+    .ppu {
+        padding: 15px 0px;
+    }
+    .ppu > p {}
+    .gsb {}
+    .gsb a {
+        font-size: 11px;
+    }
+}
+/* End of Responsive 479px */

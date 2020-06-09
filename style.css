@@ -1,0 +1,139 @@
+* {}
+body {}
+section {}
+.container {
+	width: 65%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.packege-section {}
+.packege-area {
+	width: 31.75%;
+	border: 1px solid #DBD2D2;
+	float: left;
+	text-align: center;
+	margin-right: 2%;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+.packege-area:last-child {
+	margin-right: 0;
+	padding-right: 0;
+}
+.first-packege {}
+.packege-header {
+	margin: 12px;
+	background-color: #FFBB3D;
+	border: 1.5px solid #FFAB0F;
+	border-radius: 5px;
+	max-height: 167px;
+}
+.packege-name {}
+.name {
+	color: white;
+	font-size: 18px;
+}
+.pkg-rate {
+	color: white;
+}
+sup {
+	font-size: 20px;
+}
+.big-text {
+	font-size: 80px;
+}
+sub {
+	font-size: 20px;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+.packege-section ul li {
+	list-style: none;
+}
+.get-started-btn {
+	margin: 12px;
+	background-color: #FFBB3D;
+	border: 1.5px solid #FFAB0F;
+	border-radius: 3px;
+	height: 35px;
+}
+.get-started-btn a {
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: inline-block;
+	margin-top: 8px;
+}
+.second-packege {}
+.second-packege .packege-header {
+	margin: 12px;
+	background-color: #FF7D20;
+	border: 1.5px solid #FFAB0F;
+	border-radius: 5px;
+	height: 167px;
+}
+.packege-name {}
+.packege-name p {}
+.pkg-rate {}
+.plain-rate {
+	font-size: 30px;
+}
+ul li {
+	padding: 12px;
+	border-bottom: 1px dotted;
+	margin: 0 12px;
+}
+.second-packege .get-started-btn {
+	margin: 12px;
+	background-color: #FF7D20;
+	border: 1.5px solid #FFAB0F;
+	border-radius: 3px;
+	height: 35px;
+}
+.get-started-btn a {}
+.third-packege {}
+ul > br {
+	margin-bottom: 111px;
+}
+.blank {
+	display: inline-block;
+	margin-bottom: 111px;
+}
+.packege-header {}
+.packege-name {}
+.packege-name p {}
+.pkg-rate, .plain-rate {}
+ul {}
+ul li {}
+.get-started-btn {}
+.get-started-btn a {}
+/* End Section Area */
+footer {}
+.ppu {
+	border: 1px solid #DBD2D2;
+	width: 60%;
+	margin: 0 auto;
+	padding: 35px 0px;
+}
+.ppu > p {
+	font-size: 14px;
+	text-align: center;
+}
+.gsb {
+	margin: 0 auto;
+	background-color: #FFBB3D;
+	border: 1.5px solid #FFAB0F;
+	border-radius: 3px;
+	height: 35px;
+	max-width: 200px;
+	text-align: center;
+}
+.gsb a {
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: inline-block;
+	margin-top: 8px;
+}
